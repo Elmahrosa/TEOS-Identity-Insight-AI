@@ -1,43 +1,52 @@
-# 🛡️ TEOS Identity Insight AI
+# 🏛️ **TEOS Identity Insight AI | ELMAHROSA**  
+*TEOS Sovereign Layer Defense Pillar*
 
-[![License: TESL – Founder-Exclusive](https://img.shields.io/badge/license-TESL%20Founder--Exclusive-red?style=for-the-badge&logo=skull&labelColor=black)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+<div align="center">
 
-[![TESL License](https://img.shields.io/badge/TESL-Sovereign%20License-red?style=flat&logo=lock)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+[![TESL License](https://img.shields.io/badge/License-TESL%20Founder--Exclusive-FF0000?style=for-the-badge&logo=skull&labelColor=000000)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Elmahrosa/TEOS-Identity-Insight-AI/ci.yml?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)  
+[![Module](https://img.shields.io/badge/Module-Identity_Insight_AI-FFD700?style=for-the-badge&logo=brain)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)  
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-TEOS_Sovereign_Layer-1E90FF?style=for-the-badge&logo=shield)](https://github.com/Elmahrosa)
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Elmahrosa/TEOS-Identity-Insight-AI/ci.yml?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)
+</div>
 
-[![Module](https://img.shields.io/badge/Module-Identity_Insight_AI-gold)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)
-
-
----
-
-## 🧠 Overview
-
-**TEOS Identity Insight AI** analyzes **DIDs**, scores risk, detects fraud via civic dashboard.
-
-**Use Cases:** Compliance • Fraud Detection • Institutional Monitoring
+**Architect:** [Ayman Seif](https://github.com/Elmahrosa)  
+**Authority:** Elmahrosa International  
+**Domain:** [teosegypt.com](https://teosegypt.com)  |  📧 ayman@teosegypt.com
 
 ---
 
-## 🚀 Features
+## 🧠 **Strategic Mission**
 
-- 🎯 **Risk Scoring** (behavioral + compliance)
-- 🆔 **DID Registry** (Trusted/Suspicious/Revoked)
-- ⚡ **Auto-Removal** (risk threshold)
-- 📊 **Audit Logs** (full traceability)
-- 🔐 **JWT Auth**
-- 🧑‍💼 **Test Personas**
+**TEOS Identity Insight AI** (*ELMAHROSA*) is the autonomous sentinel of the TEOS Sovereign Layer.  
+It delivers real‑time analysis of Decentralized Identifiers (DIDs), computing deep‑risk scores and detecting fraudulent patterns via a high‑fidelity civic dashboard.
+
+**Role:** _Defense Pillar_ – ensures only verified, compliant identities interact with the broader TEOS ecosystem.
 
 ---
 
-## 🏗️ Stack
+## 🚀 **Core Capabilities**
 
-| Component | Tech | Port |
-|-----------|------|------|
-| Backend | FastAPI | 8000 |
-| Frontend | React | 3000 |
-| DB | PostgreSQL-ready | - |
-| Deploy | Docker | - |
+| Capability | Description | Status |
+| :-------- | :---------- | :----- |
+| 🎯 **TESL Risk Scoring** | Proprietary AI scoring based on behavioral flags & compliance history | ✅ Live |
+| 🆔 **DID Registry** | Real‑time monitoring: `Trusted` / `Suspicious` / `Revoked` | ✅ Live |
+| ⚡ **Auto‑Purge** | Automated access revocation (`risk ≥ 70 %`) | ✅ Active |
+| 📊 **Audit Transparency** | Full traceability & export for institutional oversight | ✅ Active |
+| 🔐 **Secure Gateway** | JWT‑protected endpoints ensuring backend‑to‑frontend integrity | ✅ Enforced |
+
+---
+
+## 🏗️ **Technical Stack**
+
+| Component | Technology | Purpose |
+| :-------- | :--------- | :------ |
+| **Backend** | FastAPI + Python 3.11 | High‑performance Async API & Scoring Engine |
+| **Frontend** | React 18 + Vite | Real‑time Civic Defense Dashboard |
+| **Security** | JWT + TESL | Auth & Sovereign Governance |
+| **Infrastructure** | Docker + CI/CD | Containerized Sovereign Rollout |
+
+
 
 ---
 
