@@ -1,3 +1,5 @@
-fastapi
+fastapi[all]
 uvicorn
+python-jose[cryptography]
 pydantic
+passlib
