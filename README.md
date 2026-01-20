@@ -1,12 +1,13 @@
 # 🛡️ TEOS Identity Insight AI
 
-[![License: TESL – Founder-Exclusive](https://img.shields.io/badge/license-TESL%20%2F%20Founder--Exclusive-red?style=for-the-badge&logo=skull)](TESL.md)
+[![License: TESL – Founder-Exclusive](https://img.shields.io/badge/license-TESL%20Founder--Exclusive-red?style=for-the-badge&logo=skull&labelColor=black)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+
+[![TESL License](https://img.shields.io/badge/TESL-Sovereign%20License-red?style=flat&logo=lock)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Elmahrosa/TEOS-Identity-Insight-AI/ci.yml?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)
 
 [![Module](https://img.shields.io/badge/Module-Identity_Insight_AI-gold)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)
 
-**Architect:** Ayman Seif | **Elmahrosa International** | [teosegypt.com](https://teosegypt.com)
 
 ---
 
@@ -65,13 +66,14 @@ cd frontend && npm install && npm start
 | ❌ Revoked | `did:teos:hana` |
 
 ---
-
 ## ⚖️ TESL License
 
 # 🛡️ **TEOS EGYPT SOVEREIGN LICENSE**
 
+[![TESL](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20TESL-Sovereign-red?style=for-the-badge&logo=egypt)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+
 **© 2025 Elmahrosa International**  
-**Proprietary • Founder-Exclusive**
+**Proprietary • Founder-Exclusive** 🔒
 
 **ALL RIGHTS RESERVED** → **Ayman Seif / Elmahrosa**
 
@@ -80,5 +82,5 @@ cd frontend && npm install && npm start
 
 **AI = Decision Support Only** (Founder Authority Required)
 
-📜 **[TESL.md](TESL.md)** | ✉️ **ayman@teosegypt.com**  
+📜 **[TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)** | ✉️ **ayman@teosegypt.com**  
 **🇪🇬 Built in Egypt**
