@@ -1,62 +1,82 @@
-# 🏛️ TEOS Identity Insight AI (Alexandria Alpha)
+# 🏛️ TEOS Identity Insight AI | TESL Pillar
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Elmahrosa/TEOS-Identity-Insight-AI/ci.yml?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
+[![TESL Linked](https://img.shields.io/badge/TESL-Integrated-blue)](https://github.com/Elmahrosa)
+[![Identity Insight AI](https://img.shields.io/badge/Identity-Insight_AI-gold)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)
 
 **Architect:** [Ayman Seif](https://github.com/Elmahrosa)  
-**Organization:** [Elmahrosa](https://github.com/Elmahrosa)  
-**Core Domain:** [TEOSEGYPT.COM](https://teosegypt.com)
+**Organization:** [Elmahrosa International](https://github.com/Elmahrosa)  
+**Core Domain:** [TEOSEGYPT.COM](https://teosegypt.com)  
+**TESL Anchor:** TEOS Sovereign Layer — compliance‑first backbone for global civic infrastructure.
 
 ---
 
-## 📜 Project Overview
-TEOS Identity Insight AI is the sovereign identity validation pillar of the TEOS ecosystem. It provides a high-performance **FastAPI** backend for Decentralized Identifier (DID) analysis and a **React-based** Civic Dashboard for real-time identity status visualization.
-
-### 🚀 Key Features
-* **Sovereign Scoring:** AI-driven analysis of DID compliance levels.
-* **Persona Validation:** Pre-configured logic for IAL2 compliance and revocation kill-switches.
-* **Microservices Architecture:** Decoupled backend (Python) and frontend (TypeScript/React).
-* **Docker Ready:** Containerized for instant deployment to cloud or on-premise servers.
+## 📜 Overview
+**TEOS Identity Insight AI** is the **TESL identity pillar**, providing sovereign risk scoring, DID validation, and persona governance.  
+It fuses a **FastAPI backend** with a **React Civic Dashboard**, enabling real‑time compliance visualization and institutional‑grade auditability.
 
 ---
 
-## 🏗️ System Architecture
-The system operates as a dual-layer stack:
+## 🚀 Features
+- **TESL Risk Scoring:** AI‑driven compliance scoring aligned with TESL governance standards.  
+- **Identity Registry:** DID registration with flags for suspicious, revoked, or trusted states.  
+- **Auto‑Purge:** High‑risk identities (≥70%) automatically removed.  
+- **Audit Logging:** Real‑time logs of registration, scoring, and revocation events.  
+- **Secure Authentication:** JWT‑based login and token lifecycle management.  
+- **Persona Validation:** Pre‑configured DID personas for demo and institutional testing.  
 
-1.  **Backend (Port 8000):** Python FastAPI engine handling identity logic.
-2.  **Frontend (Port 3000):** React Dashboard displaying the "Elmahrosa" civic interface.
+---
 
-
+## 🏗️ Architecture
+- **Backend (Port 8000):** FastAPI engine for identity logic and TESL scoring.  
+- **Frontend (Port 3000):** React Civic Dashboard for visualization.  
+- **Database:** In‑memory (future expansion to PostgreSQL/Redis).  
+- **Deployment:** Docker‑ready for cloud or sovereign on‑premise rollout.  
 
 ---
 
 ## 🛠️ Quick Start
 
-### 1. Prerequisites
-* Python 3.10+
-* Node.js 18+
-* Git
+### Prerequisites
+- Python 3.10+  
+- Node.js 18+  
+- Git  
+- Docker (optional, recommended)
 
-### 2. Launch Backend
+### Backend
 ```bash
 cd backend
-python -m pip install -r requirements.txt
-python -m uvicorn app.main:app --reload
+pip install -r requirements.txt
+uvicorn app.main:app --reload
 ```
 
-### 3. Launch Frontend
+### Frontend
 ```bash
 cd frontend
 npm install
 npm start
 ```
 
+Access Swagger UI at: `http://localhost:8000/docs`  
+Access Civic Dashboard at: `http://localhost:3000`
+
 ---
 
-## 🧪 API Personas (Test DIDs)
-Use the following DIDs in the Swagger UI (`http://localhost:8000/docs`) to test the AI response:
-* `did:teos:omar`: **Recognized** (100% Score)
-* `did:teos:marcus`: **Partial** (65% Score)
-* `did:teos:hana`: **Revoked** (0% Score)
+## 🧪 Test Personas (DIDs)
+- `did:teos:omar` → **Recognized** (100% Score)  
+- `did:teos:marcus` → **Partial** (65% Score)  
+- `did:teos:hana` → **Revoked** (0% Score)  
+
+---
+
+## 🔗 TESL Ecosystem Linkage
+This repo is integrated into the **TESL Sovereign Layer**, linked across all TEOS modules:  
+[`https://github.com/Elmahrosa/TEOS-Identity-Insight-AI`](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)
 
 ---
 
 ## 🛡️ License
-Proprietary Architecture by Ayman Seif. All Rights Reserved.
+Proprietary Architecture © Ayman Seif. All Rights Reserved.  
+For institutional licensing and compliance audits, contact [Elmahrosa International](https://github.com/Elmahrosa).
+```
