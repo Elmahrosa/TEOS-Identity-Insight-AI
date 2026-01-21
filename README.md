@@ -1,95 +1,139 @@
-# 🏛️ **TEOS Identity Insight AI | ELMAHROSA**  
-*TEOS Sovereign Layer Defense Pillar*
+# 🏛️ TEOS Identity Insight AI | ELMAHROSA
+**Sovereign Identity & Defense Pillar of TEOS**
+
+---
+
+## Constitutional Authority (Read First)
+
+This repository is a **sovereign-grade identity intelligence module** within the  
+**TEOS / Elmahrosa Sovereign Stack**.
+
+It is governed exclusively by the constitutional and governance framework of **TEOS Egypt**.
+
+### Constitutional & Governance Anchors
+
+- **International Civic Blockchain Constitution (Single Source of Truth)**  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
+
+- **TEOS-FORGE — Governance & Stewardship Anchor**  
+  https://github.com/Elmahrosa/TEOS-FORGE
+
+- **License — TEOS Egypt Sovereign License (TESL)**  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+---
+
+## Identity Doctrine
+
+**Born in Egypt for the World**  
+*Built in Egypt. Engineered for Nations. Scaled for the World.*
+
+Elmahrosa leads with governance. Nations command. Technology serves.  
+AI and Web3 operate strictly as governed execution layers — never as authorities.
+
+---
+
+## About This Repository
+
+**TEOS Identity Insight AI** delivers sovereign-grade identity intelligence, risk analysis,
+and audit enforcement for civic-first blockchain systems.
+
+It enables:
+- National digital identity protection
+- Civic-first blockchain infrastructure
+- Compliance-heavy and emerging-market deployments
+- AI-assisted identity verification under **human sovereign authority**
+
+> This repository is **not a standalone commercial product**.  
+> It operates exclusively as a controlled component of the **TEOS Sovereign Stack**.
+
+---
 
 <div align="center">
 
-[![TESL License](https://img.shields.io/badge/License-TESL%20Founder--Exclusive-FF0000?style=for-the-badge&logo=skull&labelColor=000000)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Elmahrosa/TEOS-Identity-Insight-AI/ci.yml?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)  
-[![Module](https://img.shields.io/badge/Module-Identity_Insight_AI-FFD700?style=for-the-badge&logo=brain)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)  
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-TEOS_Sovereign_Layer-1E90FF?style=for-the-badge&logo=shield)](https://github.com/Elmahrosa)
+[![TESL License](https://img.shields.io/badge/License-TESL%20Sovereign-red?style=for-the-badge&labelColor=000000)](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE)
+[![CI](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI/actions)
+[![Module](https://img.shields.io/badge/Module-Identity_Insight_AI-gold?style=for-the-badge)](https://github.com/Elmahrosa/TEOS-Identity-Insight-AI)
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-TEOS_Sovereign_Layer-blue?style=for-the-badge)](https://github.com/Elmahrosa)
 
 </div>
 
-**Architect:** [Ayman Seif](https://github.com/Elmahrosa)  
+**Architect:** Ayman Seif  
 **Authority:** Elmahrosa International  
-**Domain:** [teosegypt.com](https://teosegypt.com)  |  📧 ayman@teosegypt.com
+**Domain:** https://teosegypt.com  
+📧 ayman@teosegypt.com
 
 ---
 
-## 🧠 **Strategic Mission**
+## Strategic Mission
 
-**TEOS Identity Insight AI** (*ELMAHROSA*) is the autonomous sentinel of the TEOS Sovereign Layer.  
-It delivers real‑time analysis of Decentralized Identifiers (DIDs), computing deep‑risk scores and detecting fraudulent patterns via a high‑fidelity civic dashboard.
+TEOS Identity Insight AI functions as the **defensive intelligence sentinel**
+of the TEOS Sovereign Layer.
 
-**Role:** _Defense Pillar_ – ensures only verified, compliant identities interact with the broader TEOS ecosystem.
+**Role:** Defense Pillar — Identity Trust, Risk Control, and Civic Protection.  
+Its mission is to ensure that **only verified, compliant, and auditable identities**
+interact with sovereign systems.
 
 ---
 
-## 🚀 **Core Capabilities**
+## Core Capabilities
 
 | Capability | Description | Status |
-| :-------- | :---------- | :----- |
-| 🎯 **TESL Risk Scoring** | Proprietary AI scoring based on behavioral flags & compliance history | ✅ Live |
-| 🆔 **DID Registry** | Real‑time monitoring: `Trusted` / `Suspicious` / `Revoked` | ✅ Live |
-| ⚡ **Auto‑Purge** | Automated access revocation (`risk ≥ 70 %`) | ✅ Active |
-| 📊 **Audit Transparency** | Full traceability & export for institutional oversight | ✅ Active |
-| 🔐 **Secure Gateway** | JWT‑protected endpoints ensuring backend‑to‑frontend integrity | ✅ Enforced |
+|---------|-------------|--------|
+| Sovereign Risk Scoring | AI-based behavioral and compliance risk analysis | Active |
+| DID Registry | Trusted / Suspicious / Revoked identity states | Active |
+| Automated Enforcement | Dynamic access restriction based on risk thresholds | Active |
+| Audit Transparency | Full traceability for institutional oversight | Active |
+| Secure Gateway | JWT-secured sovereign API access | Enforced |
 
 ---
 
-## 🏗️ **Technical Stack**
+## Technical Stack
 
-| Component | Technology | Purpose |
-| :-------- | :--------- | :------ |
-| **Backend** | FastAPI + Python 3.11 | High‑performance Async API & Scoring Engine |
-| **Frontend** | React 18 + Vite | Real‑time Civic Defense Dashboard |
-| **Security** | JWT + TESL | Auth & Sovereign Governance |
-| **Infrastructure** | Docker + CI/CD | Containerized Sovereign Rollout |
-
-
+| Layer | Technology | Purpose |
+|-----|------------|--------|
+| Backend | FastAPI + Python 3.11 | Identity intelligence & scoring |
+| Frontend | React + Vite | Civic defense dashboard |
+| Security | JWT + TESL | Sovereign access control |
+| Infrastructure | Docker + CI/CD | Controlled sovereign deployment |
 
 ---
 
-## 🚦 Quick Start
+## Quick Start (Development Only)
 
 ```bash
 # Backend
-cd backend && pip install -r requirements.txt
+cd backend
+pip install -r requirements.txt
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
-# Frontend (new terminal)
-cd frontend && npm install && npm start
-```
-
-**Access:**  
-🔗 [API Docs](http://localhost:8000/docs) | 📱 [Dashboard](http://localhost:3000)
-
----
-
-## 🧪 Test DIDs
-
-| Status | DID |
-|--------|-----|
-| ✅ Trusted | `did:teos:omar` |
-| ⚠️ Medium | `did:teos:marcus` |
-| ❌ Revoked | `did:teos:hana` |
+# Frontend
+cd frontend
+npm install
+npm run dev
+````
 
 ---
-## ⚖️ TESL License
 
-# 🛡️ **TEOS EGYPT SOVEREIGN LICENSE**
+## ⚖️ License & Sovereign Control
 
-[![TESL](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20TESL-Sovereign-red?style=for-the-badge&logo=egypt)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+This repository is governed exclusively by the
+**TEOS Egypt Sovereign License (TESL)**.
 
-**© 2025 Elmahrosa International**  
-**Proprietary • Founder-Exclusive** 🔒
+* **Canonical License:**
+  [https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE)
 
-**ALL RIGHTS RESERVED** → **Ayman Seif / Elmahrosa**
+* **Status:** Proprietary • Source-Available
 
-✅ **Allowed**: Founder use/modify/deploy  
-❌ **BANNED**: Forks • Redistribution • Commercial  
+* **Authority:** Elmahrosa International
 
-**AI = Decision Support Only** (Founder Authority Required)
+* **Founder:** Ayman Seif
 
-📜 **[TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)** | ✉️ **ayman@teosegypt.com**  
-**🇪🇬 Built in Egypt**
+AI systems act as **decision-support tools only**.
+**Final authority always remains human and sovereign.**
+
+🇪🇬 *Built in Egypt for the World.*
+
+````
+
+---
