@@ -65,14 +65,28 @@ It enables:
 
 ---
 
-## Strategic Mission
+## Strategic Mission (Government / RFP Ready)
 
-TEOS Identity Insight AI functions as the **defensive intelligence sentinel**
-of the TEOS Sovereign Layer.
+TEOS Identity Insight AI is the **identity defense pillar** of the TEOS / Elmahrosa Sovereign Stack.
+It was **originated in Egypt** under Elmahrosa International stewardship, and is explicitly designed
+to be **adopted by any nation** through jurisdiction profiles and governed enforcement.
 
-**Role:** Defense Pillar — Identity Trust, Risk Control, and Civic Protection.  
-Its mission is to ensure that **only verified, compliant, and auditable identities**
-interact with sovereign systems.
+**Mission:** Enable nations to operate digital identity at sovereign scale with:
+- **Governance-first control** (authority precedes automation)
+- **Compliance-first access** (policy gates before execution)
+- **Audit-first accountability** (evidence export for regulators)
+- **Identity-first trust** (risk scoring + revocation pathways)
+- **Human final authority** (AI is decision-support only)
+
+### Vision (Sovereign Export Doctrine)
+Elmahrosa leads with a governance blueprint that nations can apply locally:
+**Built in Egypt. Engineered for Nations. Scaled for the World.**
+
+### UN / SDG Alignment (Implementation Context)
+This module supports sovereign digital public infrastructure objectives such as:
+- **SDG 16** (Peace, Justice, Strong Institutions): auditability, accountability, anti-fraud controls
+- **SDG 9** (Industry, Innovation, Infrastructure): resilient digital identity infrastructure
+- **SDG 17** (Partnerships): interoperable, nation-configurable deployment profiles
 
 ---
 
@@ -133,7 +147,3 @@ AI systems act as **decision-support tools only**.
 **Final authority always remains human and sovereign.**
 
 🇪🇬 *Built in Egypt for the World.*
-
-````
-
----
